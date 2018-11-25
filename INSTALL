@@ -1,0 +1,9 @@
+Building Ramcoin
+
+See doc/readme-qt.rst for instructions on building Ramcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Ramcoin.
+
+See doc/build-*.txt for instructions on building ramcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Ramcoin.
