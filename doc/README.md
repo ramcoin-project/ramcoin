@@ -2,6 +2,7 @@ Ramcoin 2.x.x
 ====================
 
 Copyright (c) 2009-2018 Bitcoin Developers
+
 Copyright (c) 2017-2018 Ramcoin Developers
 
 Distributed under the MIT/X11 software license, see the accompanying
