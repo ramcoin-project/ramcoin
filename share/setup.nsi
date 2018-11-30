@@ -5,7 +5,7 @@ SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define VERSION 2.1.1.1
+!define VERSION 2.2.2.2
 !define COMPANY "Ramcoin project"
 !define URL http://www.ramcoinmining.org/
 
