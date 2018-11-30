@@ -1,7 +1,7 @@
 TEMPLATE = app
 TARGET = ramcoin-qt
 macx:TARGET = "Ramcoin-Qt"
-VERSION = 2.1.1.1
+VERSION = 2.2.2.2
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
