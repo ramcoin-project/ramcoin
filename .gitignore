@@ -1,0 +1,34 @@
+src/*.exe
+src/ramcoin
+src/ramcoind
+src/test_ramcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.ramcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+ramcoin-qt
+Ramcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+ramcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
